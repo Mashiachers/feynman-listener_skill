@@ -1,0 +1,7 @@
+interface:
+  display_name: "Feynman Listener"
+  short_description: "Guide a Feynman learning loop with targeted AI probes."
+  default_prompt: "Use $feynman-listener to help me explain a topic, find gaps, answer follow-up questions, and prepare a clearer retell."
+
+policy:
+  allow_implicit_invocation: true
